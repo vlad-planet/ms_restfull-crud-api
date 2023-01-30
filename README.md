@@ -1,5 +1,4 @@
-# ms_restful-crud-api
- microservices
+microservices
  
 ## Создание базового интерфейса Restful Crud API для подключения к микросервису
 
